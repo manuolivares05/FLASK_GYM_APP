@@ -1,0 +1,4 @@
+from .usuario_repository import UsuarioRepository
+from .grupo_muscular_repository import GrupoMuscularRepository
+from .ejercicio_repository import EjercicioRepository
+from .entrenamiento_repository import EntrenamientoRepository

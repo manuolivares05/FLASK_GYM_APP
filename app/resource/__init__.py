@@ -1,0 +1,1 @@
+from .usuario_resource import user_bp

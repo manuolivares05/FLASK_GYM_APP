@@ -1,0 +1,5 @@
+from .ejercicio_schema import EjercicioSchema
+from .grupo_muscular_schema import GrupoMuscularSchema
+from .usuario_schema import UsuarioSchema
+from .entrenamiento_schema import EntrenamientoSchema
+from .response_schema import ResponseSchema
